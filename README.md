@@ -1,2 +1,2 @@
-# Easy_SteamVR_WebApp
+# Easy-SteamVR-WebApp
 Any website you like inside steamvr!
