@@ -1,2 +1,2 @@
-# Easy-SteamVR-WebApp
-Any website you like inside steamvr!
+# Simple SteamVR WebApp
+Any website or local web content inside steamvr!
